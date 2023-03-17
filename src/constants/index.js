@@ -1,8 +1,11 @@
 import {
-    mobile,
-    backend,
-    creator,
-    web,
+    first,
+    second,
+    third,
+    fourth,
+    fifth,
+    sixth,
+    seventh,
     javascript,
     typescript,
     html,
@@ -43,31 +46,31 @@ import {
   const services = [
     {
       title: "Production et réalisation des films documentaire(création et commande)",
-      icon: web,
+      icon: first,
     },
     {
       title: " Production et réalisation de fiction (création et commande)",
-      icon: mobile,
+      icon: second,
     },
     {
       title: "Production et réalisation spot publicitaire, clip vidéo",
-      icon: backend,
+      icon: third,
     },
     {
       title: "service de marketing ",
-      icon: creator,
+      icon: fourth,
     },
     {
       title:"service évènementiel",
-      icon:web ,
+      icon:fifth ,
     },
     {
       title:"Le jeux d'acteur",
-      icon:web ,
+      icon:sixth ,
     },
     {
       title:" service de communication qui comprend le design, le graphisme, photographie, etc.",
-      icon: web,
+      icon: seventh,
     },
   ];
   

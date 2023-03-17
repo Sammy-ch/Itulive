@@ -1,8 +1,11 @@
 import logo from "./logo.png";
-import backend from "./backend.png";
-import creator from "./creator.png";
-import mobile from "./mobile.png";
-import web from "./web.png";
+import first from "./first.svg";
+import second from "./second.svg"
+import third from "./third.svg"
+import fourth from "./fourth.svg"
+import fifth from "./fifth.svg"
+import sixth from "./sixth.svg"
+import seventh from "./seventh.svg"
 import github from "./github.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
@@ -32,10 +35,13 @@ import tripguide from "./tripguide.png";
 
 export {
   logo,
-  backend,
-  creator,
-  mobile,
-  web,
+  first,
+  second,
+  third,
+  fourth,
+  fifth,
+  sixth,
+  seventh,
   github,
   menu,
   close,
