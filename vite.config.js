@@ -6,6 +6,6 @@ import { chunkSplitPlugin } from 'vite-plugin-chunk-split'
 export default defineConfig({
   plugins: [react()],
   build: {
-    chunkSizeWarningLimit: 1600,
+    chunkSizeWarningLimit: 1600000000,
   },
 })
