@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     
     <section className={`relative w-full h-screen max-autob`}>
-      <video  type="video/mp4" autoPlay loop muted playsInline poster='src/assets/herovid/vid_poster.png' width="320" height="240"
+      <video type="video/mp4" autoPlay loop muted playsInline poster='/vid_poster.png' width="320" height="240"
         class="video-docker absolute top-0 left-0 w-full h-full overflow-hidden object-cover">
         <source src='/herovid.mp4'></source>
       </video>
